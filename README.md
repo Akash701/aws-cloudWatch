@@ -29,7 +29,8 @@ This repository contains my Terraform projects showcasing **AWS Cloud infrastruc
    ```bash
    git clone https://github.com/Akash701/aws-cloudWatch
 2. Initialize Terraform:
+   ```bash
    terraform init
-
-3. Apply the configuration
+3.  Apply the configuration
+   ```bash
    terraform apply
