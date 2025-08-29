@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+variables.tf
+.tfstate.backup
+terraform.tfstate.1756412437.backup
+terraform.tfstate.1756412443.backup
+terraform.tfstate.1756412448.backup
